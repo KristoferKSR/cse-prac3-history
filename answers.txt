@@ -1,0 +1,2 @@
+There are 11 commits total, all made by "Stopa".
+790a2aa should be findable with git log or even by checking the commits in GitHub, but I can't find it.
